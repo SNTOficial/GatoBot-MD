@@ -1,50 +1,50 @@
 global.math = global.math ? global.math : {}
 let handler  = async (m, { conn, args, usedPrefix, command }) => {
-let mat =`${lenguajeGB['smsAvisoIIG']()}✨ 𝙋𝙐𝙀𝘿𝙀 𝙐𝙎𝘼𝙍 𝙇𝙊𝙎 𝘽𝙊𝙏𝙊𝙉𝙀𝙎 𝙊 𝙀𝙎𝘾𝙍𝙄𝘽𝙄𝙍 𝙇𝘼 𝘿𝙄𝙁𝙄𝘾𝙐𝙇𝙏𝘼𝘿\n✨ 𝙔𝙊𝙐 𝘾𝘼𝙉 𝙐𝙎𝙀 𝙏𝙃𝙀 𝘽𝙐𝙏𝙏𝙊𝙉𝙎 𝙊𝙍 𝙒𝙍𝙄𝙏𝙀 𝙏𝙃𝙀 𝘿𝙄𝙁𝙁𝙄𝘾𝙐𝙇𝙏𝙔
+let mat =`${lenguajeGB['smsAvisoIIG']()}✨ 𝑷𝒖𝒆𝒅𝒆𝒔 𝒖𝒔𝒂𝒓 𝒍𝒐𝒔 𝒃𝒐𝒕𝒐𝒏𝒆𝒔 𝒐 𝒆𝒔𝒄𝒓𝒊𝒃𝒊𝒓 𝒍𝒂 𝒅𝒊𝒇𝒊𝒄𝒖𝒍𝒕𝒂𝒅\n✨ 𝒀𝒐𝒖 𝒄𝒂𝒏 𝒖𝒔𝒆 𝒕𝒉𝒆 𝒃𝒖𝒕𝒕𝒐𝒏𝒔 𝒐𝒓 𝒘𝒓𝒊𝒕𝒆 𝒕𝒉𝒆 𝒅𝒊𝒇𝒇𝒊𝒄𝒖𝒍𝒕𝒚
 
-𝙉𝙄𝙑𝙀𝙇 𝘿𝙀 𝘿𝙄𝙁𝙄𝘾𝙐𝙇𝙏𝘼𝘿 | 𝘿𝙄𝙁𝙁𝙄𝘾𝙐𝙇𝙏𝙔 
+𝑵𝒊𝒗𝒆𝒍 𝒅𝒆 𝒅𝒊𝒇𝒊𝒄𝒖𝒍𝒕𝒂𝒅 | 𝑫𝒊𝒇𝒇𝒊𝒄𝒖𝒍𝒕𝒚 
 ${Object.keys(modes).join('  |  ')}
 
-𝙀𝙅𝙀𝙈𝙋𝙇𝙊 | 𝙀𝙓𝘼𝙈𝙋𝙇𝙀
+𝑬𝒋𝒆𝒎𝒑𝒍𝒐 | 𝑬𝒙𝒂𝒎𝒑𝒍𝒆
 ${usedPrefix + command} noob
 ${usedPrefix + command} impossible2
 
-😼 𝙈𝙄𝙀𝙉𝙏𝙍𝘼𝙎 𝙈𝘼𝙎 𝘿𝙄𝙁𝙄𝘾𝙐𝙇𝙏𝘼𝘿 𝙈𝘼𝙔𝙊𝙍 𝙍𝙀𝘾𝙊𝙈𝙋𝙀𝙉𝙎𝘼
-😼 𝙈𝙊𝙍𝙀 𝘿𝙄𝙁𝙁𝙄𝘾𝙐𝙇𝙏𝙔 𝙔𝙊𝙐 𝘾𝘼𝙉 𝙂𝙀𝙏 𝙏𝙃𝙀 𝙂𝙍𝙀𝘼𝙏𝙀𝙍 𝙍𝙀𝙒𝘼𝙍𝘿
+😼 𝑴𝒊𝒆𝒏𝒕𝒓𝒂𝒔 𝒎𝒂𝒔 𝒅𝒊𝒇𝒊𝒄𝒖𝒍𝒕𝒂𝒅 𝒎𝒂𝒚𝒐𝒓 𝒓𝒆𝒄𝒐𝒎𝒑𝒆𝒏𝒔𝒂
+😼 𝑴𝒐𝒓𝒆 𝒅𝒊𝒇𝒇𝒊𝒄𝒖𝒍𝒕𝒚 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒈𝒆𝒕 𝒕𝒉𝒆 𝒈𝒓𝒆𝒂𝒕𝒆𝒓 𝒓𝒆𝒘𝒂𝒓𝒅
 `.trim()
 if (args.length < 1) return conn.sendHydrated(m.chat, wm, mat, null, null, null, null, null, [
-['😋 𝙁𝙖𝙘𝙞𝙡 | 𝙀𝙖𝙨𝙮', `${usedPrefix + command} easy`], 
-['😎 𝘿𝙞𝙛𝙞𝙘𝙞𝙡 | 𝙃𝙖𝙧𝙙', `${usedPrefix + command} hard`], 
-['🤑 𝙀𝙭𝙩𝙧𝙚𝙢𝙤 | 𝙀𝙭𝙩𝙧𝙚𝙢𝙚', `${usedPrefix + command} extreme`]], m)
+['😋 𝑭𝒂𝒄𝒊𝒍 | 𝑬𝒂𝒔𝒚', `${usedPrefix + command} easy`], 
+['😎 𝑫𝒊𝒇𝒊𝒄𝒊𝒍 | 𝑯𝒂𝒓𝒅', `${usedPrefix + command} hard`], 
+['🤑 𝑬𝒙𝒕𝒓𝒆𝒎𝒐 | 𝑬𝒙𝒕𝒓𝒆𝒎𝒆', `${usedPrefix + command} extreme`]], m)
   
 let mode = args[0].toLowerCase()
 if (!(mode in modes)) return conn.sendHydrated(m.chat, wm, mat, null, null, null, null, null, [
-['😋 𝙁𝙖𝙘𝙞𝙡 | 𝙀𝙖𝙨𝙮', `${usedPrefix + command} easy`], 
-['😎 𝘿𝙞𝙛𝙞𝙘𝙞𝙡 | 𝙃𝙖𝙧𝙙', `${usedPrefix + command} hard`], 
-['🤑 𝙀𝙭𝙩𝙧𝙚𝙢𝙤 | 𝙀𝙭𝙩𝙧𝙚𝙢𝙚', `${usedPrefix + command} extreme`]], m) 
+['😋 𝑭𝒂𝒄𝒊𝒍 | 𝑬𝒂𝒔𝒚', `${usedPrefix + command} easy`], 
+['😎 𝑫𝒊𝒇𝒊𝒄𝒊𝒍 | 𝑯𝒂𝒓𝒅', `${usedPrefix + command} hard`], 
+['🤑 𝑬𝒙𝒕𝒓𝒆𝒎𝒐 | 𝑬𝒙𝒕𝒓𝒆𝒎𝒆', `${usedPrefix + command} extreme`]], m) 
   
 let id = m.chat
-if (id in global.math) return conn.reply(m.chat, `${lenguajeGB['smsAvisoAG']()}𝙃𝘼𝙔 𝙋𝙍𝙀𝙂𝙐𝙉𝙏𝘼𝙎 𝙎𝙄𝙉 𝙍𝙀𝙎𝙋𝙊𝙉𝘿𝙀𝙍 𝙀𝙉 𝙀𝙇 𝘾𝙃𝘼𝙏!!\n\n𝙏𝙃𝙀𝙍𝙀 𝘼𝙍𝙀 𝙌𝙐𝙀𝙎𝙏𝙄𝙊𝙉𝙎 𝙒𝙄𝙏𝙃𝙊𝙐𝙏 𝘼𝙉𝙎𝙒𝙀𝙍𝙄𝙉𝙂 𝙄𝙉 𝙏𝙃𝙀 𝘾𝙃𝘼𝙏!!`, global.math[id][0])
+if (id in global.math) return conn.reply(m.chat, `${lenguajeGB['smsAvisoAG']()}𝑯𝒂𝒚 𝒑𝒓𝒆𝒈𝒖𝒏𝒕𝒂𝒔 𝒔𝒊𝒏 𝒓𝒆𝒔𝒑𝒐𝒏𝒅𝒆𝒓 𝒆𝒏 𝒆𝒍 𝒄𝒉𝒂𝒕!!\n\n𝒕𝒉𝒆𝒓𝒆 𝒂𝒓𝒆 𝒒𝒖𝒆𝒔𝒕𝒊𝒐𝒏𝒔 𝒘𝒊𝒕𝒉𝒐𝒖𝒕 𝒂𝒏𝒔𝒘𝒆𝒓𝒊𝒏𝒈 𝒊𝒏 𝒕𝒉𝒆 𝒄𝒉𝒂𝒕!!`, global.math[id][0])
 //let ii = global.db.data.users[m.sender].limit += 10 math.dia
 let math = genMath(mode)
 global.math[id] = [
-await conn.reply(m.chat, `𝘾𝙪𝙖𝙡 𝙚𝙨 𝙧𝙚𝙨𝙪𝙡𝙩𝙖𝙙𝙤 𝙙𝙚 *${math.str} = ?*
+await conn.reply(m.chat, `𝑪𝒖𝒂𝒍 𝒆𝒔 𝒆𝒍 𝒓𝒆𝒔𝒖𝒍𝒕𝒂𝒅𝒐 𝒅𝒆 *${math.str} = ?*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-𝙏𝙞𝙚𝙢𝙥𝙤 | 𝙏𝙞𝙢𝙚
+𝑻𝒊𝒆𝒎𝒑𝒐 | 𝑻𝒊𝒎𝒆
 🧭 *${(math.time / 1000).toFixed(0)} 𝚜𝚎𝚐𝚞𝚗𝚍𝚘𝚜*
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
-𝙍𝙚𝙨𝙥𝙤𝙣𝙙𝙚 𝙖 𝙚𝙨𝙩𝙚 𝙢𝙚𝙣𝙨𝙖𝙟𝙚 𝙮 𝙂𝙖𝙣𝙖 
-🏆 *${math.bonus} 𝙓𝙋*
+𝑹𝒆𝒔𝒑𝒐𝒏𝒅𝒆 𝒂 𝒆𝒔𝒕𝒆 𝒎𝒆𝒏𝒔𝒂𝒋𝒆 𝒚 𝒈𝒂𝒏𝒂
+🏆 *${math.bonus} 𝑿𝑷*
 `, m),
 math, 4,
   
-await conn.sendHydrated(m.chat, `⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️`, `𝙍𝙀𝙎𝙋𝙊𝙉𝘿𝘼 𝘼𝙇 𝙈𝙀𝙉𝙎𝘼𝙅𝙀 𝘿𝙀 𝘼𝙍𝙍𝙄𝘽𝘼 𝘾𝙊𝙉 𝙇𝘼 𝙍𝙀𝙎𝙋𝙐𝙀𝙎𝙏𝘼\n\n𝘼𝙉𝙎𝙒𝙀𝙍 𝙏𝙃𝙀 𝙈𝙀𝙎𝙎𝘼𝙂𝙀 𝘼𝘽𝙊𝙑𝙀 𝙏𝙊 𝙆𝙉𝙊𝙒 𝙔𝙊𝙐𝙍 𝘼𝙉𝙎𝙒𝙀𝙍`, null, md, '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿', null, null, [ 
-['𝙏𝙤𝙥𝙨 | 𝙍𝙖𝙣𝙠𝙞𝙣𝙜 🏆', `${usedPrefix}top`],
-['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', `${usedPrefix}menu`]
+await conn.sendHydrated(m.chat, `⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️`, `𝑹𝒆𝒔𝒑𝒐𝒏𝒅𝒂 𝒂𝒍 𝒎𝒆𝒏𝒔𝒂𝒋𝒆 𝒅𝒆 𝒂𝒓𝒓𝒊𝒃𝒂 𝒄𝒐𝒏 𝒍𝒂 𝒓𝒆𝒔𝒑𝒖𝒆𝒔𝒕𝒂\n\n𝘼𝙉𝙎𝙒𝙀𝙍 𝙏𝙃𝙀 𝙈𝙀𝙎𝙎𝘼𝙂𝙀 𝘼𝘽𝙊𝙑𝙀 𝙏𝙊 𝙆𝙉𝙊𝙒 𝙔𝙊𝙐𝙍 𝘼𝙉𝙎𝙒𝙀𝙍`, null, md, '𝐆𝐚𝐭𝐨𝐁𝐨𝐭-𝐌𝐃', null, null, [ 
+['𝑻𝒐𝒑𝒔 | 𝑹𝒂𝒏𝒌𝒊𝒏𝒈 🏆', `${usedPrefix}top`],
+['𝑽𝒐𝒍𝒗𝒆𝒓 𝒂𝒍 𝒎𝒆𝒏𝒖 | 𝑩𝒂𝒄𝒌 𝒕𝒐 𝒎𝒆𝒏𝒖 ☘️', `${usedPrefix}menu`]
 ], m), math, 4,
   
 setTimeout(() => { 
-if (global.math[id]) conn.sendButton(m.chat, `${lenguajeGB['smsAvisoAG']()}𝙎𝙀 𝘼𝘾𝘼𝘽𝙊 𝙀𝙇 𝙏𝙄𝙀𝙈𝙋𝙊!!\n𝙇𝘼 𝙍𝙀𝙎𝙋𝙐𝙀𝙎𝙏𝘼 𝙀𝙎 *${math.result}*\n\n𝙏𝙄𝙈𝙀 𝙄𝙎 𝙐𝙋!!\n𝙏𝙃𝙀 𝘼𝙉𝙎𝙒𝙀𝙍 𝙄𝙎 *${math.result}*`, wm, null, [['𝙄𝙣𝙩𝙚𝙣𝙩𝙖𝙧 𝙙𝙚 𝙣𝙪𝙚𝙫𝙤 | 𝙏𝙧𝙮 𝙖𝙜𝙖𝙞𝙣', `${usedPrefix + command} ${math.mode}`], ['𝙈𝙚𝙣𝙪 𝙅𝙪𝙚𝙜𝙤𝙨 | 𝙂𝙖𝙢𝙚𝙨 𝙈𝙚𝙣𝙪 🎡', `/juegosmenu`]], global.math[id][0])
+if (global.math[id]) conn.sendButton(m.chat, `${lenguajeGB['smsAvisoAG']()}𝑺𝒆 𝒂𝒄𝒂𝒃𝒐 𝒆𝒍 𝒕𝒊𝒆𝒎𝒑𝒐!!\n𝑳𝒂 𝒓𝒆𝒔𝒑𝒖𝒆𝒔𝒕𝒂 𝒆𝒔 *${math.result}*\n\n𝙏𝙄𝙈𝙀 𝙄𝙎 𝙐𝙋!!\n𝙏𝙃𝙀 𝘼𝙉𝙎𝙒𝙀𝙍 𝙄𝙎 *${math.result}*`, wm, null, [['𝙄𝙣𝙩𝙚𝙣𝙩𝙖𝙧 𝙙𝙚 𝙣𝙪𝙚𝙫𝙤 | 𝙏𝙧𝙮 𝙖𝙜𝙖𝙞𝙣', `${usedPrefix + command} ${math.mode}`], ['𝙈𝙚𝙣𝙪 𝙅𝙪𝙚𝙜𝙤𝙨 | 𝙂𝙖𝙢𝙚𝙨 𝙈𝙚𝙣𝙪 🎡', `/juegosmenu`]], global.math[id][0])
 delete global.math[id]
 }, math.time)
 ]}
