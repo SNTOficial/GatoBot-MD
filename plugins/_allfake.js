@@ -1,4 +1,4 @@
-//ESTOS DISEÑOS PARA MENSAJES SON COMPATIBLES CON GATABOT, SIN EMBARGO ALGUNOS NO SE VEN EN LA VERSIÓN DE WHATSAPP WEB
+//ESTOS DISEÑOS PARA MENSAJES SON COMPATIBLES CON GATOBOT, SIN EMBARGO ALGUNOS NO SE VEN EN LA VERSIÓN DE WHATSAPP WEB
 //PERO EN EL CELULAR SI SE NOTA TODOS, PUEDES USAR EL QUE QUIERAS 😼
 import { generateWAMessageFromContent } from "@adiwajshing/baileys"
 import fs from 'fs'
@@ -77,18 +77,18 @@ export default handler
 
 function ucapan() {
   const time = moment.tz('America/Los_Angeles').format('HH')  //America/Los_Angeles  Asia/Jakarta   America/Toronto
-  let res = "👋 *BIENVENIDO(A) | WELCOME* 👋"
+  let res = "👋 *𝑩𝒊𝒆𝒏𝒗𝒆𝒏𝒊𝒅𝒐/𝒂 | 𝑾𝒆𝒍𝒄𝒐𝒎𝒆* 👋"
   if (time >= 4) {
-    res = "🌇 *Buenos Días | Good Morning* ⛅"
+    res = "🌇 *𝑩𝒖𝒆𝒏𝒐𝒔 𝑫𝒊𝒂𝒔 | 𝑮𝒐𝒐𝒅 𝑴𝒐𝒓𝒏𝒊𝒏𝒈* ⛅"
   }
   if (time >= 11) {
-    res = "🏙️ *Buenas Tardes | Good Afternoon* 🌤️"
+    res = "🏙️ *𝑩𝒖𝒆𝒏𝒂𝒔 𝑻𝒂𝒓𝒅𝒆𝒔 | 𝑮𝒐𝒐𝒅 𝑨𝒇𝒕𝒆𝒓𝒏𝒐𝒐𝒏* 🌤️"
   }
   if (time >= 15) {
-    res = "🌆 *Buenas tardes | Good Afternoon* 🌥️"
+    res = "🌆 *𝑩𝒖𝒆𝒏𝒂𝒔 𝑻𝒂𝒓𝒅𝒆𝒔 | 𝑮𝒐𝒐𝒅 𝑨𝒇𝒕𝒆𝒓𝒏𝒐𝒐𝒏* 🌥️"
   }
   if (time >= 17) {
-    res = "🌃 *Buenas noches | Good Evening* 💫"
+    res = "🌃 *𝑾𝒆𝒏𝒂𝒔 𝑵𝒐𝒄𝒉𝒆𝒔 | 𝑮𝒐𝒐𝒅 𝑬𝒗𝒆𝒏𝒊𝒏𝒈* 💫"
   }
   return res
 } 
