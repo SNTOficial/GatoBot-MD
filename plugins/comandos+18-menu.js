@@ -5,7 +5,7 @@ import { join } from 'path'
 import fetch from 'node-fetch'
 
 let handler = async (m, { conn, usedPrefix, command, args, usedPrefix: _p, __dirname, isOwner, text, isAdmin, isROwner }) => {
-if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${ag}𝙇𝙊𝙎 𝘾𝙊𝙈𝘼𝙉𝘿𝙊𝙎 +18 𝙀𝙎𝙏𝘼𝙉 𝘿𝙀𝙎𝘼𝘾𝙏𝙄𝙑𝘼𝘿𝙊𝙎 𝙐𝙎𝙀 #𝙤𝙣 𝙢𝙤𝙙𝙤𝙝𝙤𝙧𝙣𝙮 𝙋𝘼𝙍𝘼 𝘼𝘾𝙏𝙄𝙑𝘼𝙍\n\n+18 𝘾𝙊𝙈𝙈𝘼𝙉𝘿𝙎 𝘼𝙍𝙀 𝘿𝙄𝙎𝘼𝘽𝙇𝙀𝘿 𝙐𝙎𝙀 #𝙤𝙣 𝙢𝙤𝙙𝙤𝙝𝙤𝙧𝙣𝙮 𝙏𝙊 𝙀𝙉𝘼𝘽𝙇𝙀`
+if (!db.data.chats[m.chat].modohorny && m.isGroup) throw `${ag}𝑳𝑶𝑺 𝒄𝒐𝒎𝒂𝒏𝒅𝒐𝒔 +18 𝑬𝒔𝒕𝒂𝒏 𝒅𝒆𝒔𝒂𝒄𝒕𝒊𝒗𝒂𝒅𝒐𝒔 𝒖𝒔𝒆 #𝙤𝙣 𝙢𝙤𝙙𝙤𝙝𝙤𝙧𝙣𝙮 𝒑𝒂𝒓𝒂 𝒂𝒄𝒕𝒊𝒗𝒂𝒓\n\n+18 𝑪𝒐𝒎𝒎𝒂𝒏𝒅𝒔 𝒂𝒓𝒆 𝒅𝒊𝒔𝒂𝒃𝒍𝒆 𝒖𝒔𝒆 #𝙤𝙣 𝙢𝙤𝙙𝙤𝙝𝙤𝙧𝙣𝙮 𝒕𝒐 𝒆𝒏𝒂𝒃𝒍𝒆`
 try{
 const { levelling } = '../lib/levelling.js'
 let { exp, limit, level, role } = global.db.data.users[m.sender]
