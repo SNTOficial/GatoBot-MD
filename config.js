@@ -6,35 +6,35 @@ import fs from 'fs'
 import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js' 
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
-global.owner = [ ['wa.me/593968585383'], //owner
-global.owner1 =  ['wa.me/584125778026', '𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾 | 𝙀𝙍𝙍𝙊𝙍𝙀𝙎 💖🐈'],
-global.owner1 =  ['wa.me/573238484181', '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 1 💖🐈'], 
-global.owner2 =  ['wa.me/5492266466080'],  // colaborado ² 
-global.owner3 =  ['wa.me/573238484181'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 1 💖🐈
-global.owner4 = ['wa.me/447451229913'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈
-global.owner5 = ['wa.me/573208089136'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈
-global.owner6 =  ['wa.me/593959425714'], 
-global.owner7 =  ['wa.me/573136855110'],
-global.owner8 =  ['wa.me/50689823726'],
-global.owner9 =  ['wa.me/50495086382'],
-global.owner10 =  ['wa.me/51960086535'], 
-global.owner11 =  ['wa.me/584166662765'],
-global.owner12 =  ['wa.me/584163647116']]
+global.owner = [ ['wa.me/595983186566'], //owner
+global.owner1 =  ['wa.me/593968585383', ' 💖🐈'],
+global.owner1 =  ['wa.me/5492266466080 ', '𝐄𝐥 𝐫𝐞𝐛𝐞𝐥𝐝𝐞 💖🐈'], 
+global.owner2 =  ['wa.me/420702012758'],  // colaborado ² 
+global.owner3 =  ['wa.me/524531173598'], //𝙂𝙖𝙩𝐎𝘽𝙤𝙩-𝙈𝘿 1 💖🐈
+//global.owner4 = ['wa.me/447451229913'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈
+//global.owner5 = ['wa.me/573208089136'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈
+//global.owner6 =  ['wa.me/593959425714'], 
+//global.owner7 =  ['wa.me/573136855110'],
+//global.owner8 =  ['wa.me/50689823726'],
+//global.owner9 =  ['wa.me/50495086382'],
+//global.owner10 =  ['wa.me/51960086535'], 
+//global.owner11 =  ['wa.me/584166662765'],
+//global.owner12 =  ['wa.me/584163647116']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.asiste = ['Wa.me/51993042301'] //asistencia para usuario 
+global.asiste = ['Wa.me/595983186566'] //asistencia para usuario 
 global.mods = [] 
-global.prems = ['528451003894'], 
+global.prems = ['524531173598'], 
   
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga GataBot-MD
-//Add the language you want GataBot-MD to have
+//Agrega el Idioma que quieres que tenga GatoBot-MD
+//Add the language you want GatoBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de GataBot, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de GatoBot, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -109,18 +109,18 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '𝙶𝙰𝚃𝙾 𝙱𝙾𝚃 🐈'
+global.author = '𝚂𝙽𝚃'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
-global.vs = '1.4.0 (Navidad) 🎄'
+global.vs = '1.4.0'
 global.version = vs
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.gt = '𝙶𝙰𝚃𝙾 𝙱𝙾𝚃'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
@@ -191,8 +191,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝙶𝚊𝚝𝚘-𝙱𝚘𝚝-𝙼𝙳 : 𝚂𝙽𝚃'
+global.igfg = '𝙶𝚊𝚝𝚘-𝙱𝚘𝚝'
 global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
