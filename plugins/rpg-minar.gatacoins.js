@@ -70,7 +70,7 @@ user.lastcoins = new Date * 1
 }
 handler.help = ['minar2']
 handler.tags = ['gata']
-handler.command = ['minar2', 'miming2', 'mine2', 'minargatacoins', 'minarcoins', 'minargata'] 
+handler.command = ['minar2', 'miming2', 'mine2', 'minargatocoins', 'minarcoins', 'minargato'] 
 handler.fail = null
 handler.exp = 0
 export default handler
