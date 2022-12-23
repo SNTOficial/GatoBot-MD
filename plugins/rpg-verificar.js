@@ -8,10 +8,10 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
   let [_, name, splitter, age] = text.match(Reg)
   if (!name) throw '🐈 El nombre no puede esta vacio'
   if (!age) throw '🐈 La edad no puede esta vacia'
-  if (name.length >= 30) throw '🐈 Fua que basado, el nombre es muy largo que quiere un pueste como nombre😹' 
+  if (name.length >= 30) throw 'Fuaaa que largo' 
   age = parseInt(age)
-  if (age > 100) throw '👴🏻 Pa esta viejos'
-  if (age < 5) throw '🚼  Basado, los bebes saber escribir.✍️😳 '
+  if (age > 100) throw '👴🏻 Pa esta viejo'
+  if (age < 5) throw '🚼  Basado, los bebes saben escribir.✍️😳 '
   user.name = name.trim()
   user.age = age
   user.regTime = + new Date
@@ -30,7 +30,7 @@ let caption = `╭━━━[ *𝙑𝙀𝙍𝙄𝙁𝙄𝘾𝘼𝙍 | 𝙑𝙀�
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃ *BONO* 
 ┃ *$350 XP*
-┃ *$200 GATACOINS*
+┃ *$200 GATOCOINS*
 ┃ *$2 DIAMANTES*
 ╰━━━━━━━━━━━━━━━━━━⬣`
 //let author = global.author
