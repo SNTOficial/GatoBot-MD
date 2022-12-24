@@ -22,8 +22,8 @@ let speed = neww - old
 let info = `
 ╭━━━━[ ${gt} ]━━━━━⬣
 ┃
-┃➥ *CREADORA | CREATOR*
-┃ღ *𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨*
+┃➥ *CREADOR | CREATOR*
+┃ღ *SNT*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➥ *CONTACTO | CONTACT* 
 ┃ღ *${ig}*
