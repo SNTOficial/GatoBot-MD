@@ -15,20 +15,17 @@ let text = `
 *---------------------*
 
 *CENTER GATABOT*
-*centergatabot@gmail.com*
+*agromosb@gmail.com*
 
-𝙂𝘼𝙏𝘼 𝘿𝙄𝙊𝙎 - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
-*${asistencia}*
-
-*Sr. Pablo* - 𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼
-*${global.asiste}*
+*Asistencia Gato Bot*
++595 983 186566
 
 
 🧡 *Eso son los contactos para ti.*\n💜 *That's the contacts for you.*`.trim()   
 let buttonMessage= {
 'document': { url: `${md}` },
 'mimetype': `application/${document}`,
-'fileName': `✦ 𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 ༄`,
+'fileName': `✦ 𝙂𝙖𝙩o𝘽𝙤𝙩-𝙈𝘿 ༄`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
