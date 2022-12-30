@@ -3,13 +3,13 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
+𝙂𝙖𝙩o𝘽𝙤𝙩-𝙈𝘿 💖🐈
 *${global.owner3}*
 
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 *2* 💖🐈
+𝙂𝙖𝙩o𝘽𝙤𝙩-𝙈𝘿 *2* 💖🐈
 *${global.owner4}*
 
-𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 *3* 💖🐈
+𝙂𝙖𝙩o𝘽𝙤𝙩-𝙈𝘿 *3* 💖🐈
 *${global.owner5}*
 
 *---------------------*
