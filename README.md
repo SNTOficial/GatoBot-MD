@@ -2,7 +2,7 @@
 # GatoBot-MD 😽
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
-<a href="http://wa.me/521095479 XD 😼👻" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://595983186566" target="blank"><img src="https://img.shields.io/badge/SNT-Creador-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
