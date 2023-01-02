@@ -4,6 +4,7 @@
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://595983186566" target="blank"><img src="https://img.shields.io/badge/SNT-Creador-25D366?style=for-the-badge&logo=WhatsApp&logoColor=green" />
 <a href="https://instagram.com/gata_dios?igshid=YmMyMTA2M2Y=" target="green"><img src="https://img.shields.io/badge/GataDios-Colab 1-25D366?style=for-the-badge&logo=instagram&logoColor=pink" />
+ <a href="http://5959831" target="blank"><img src="https://img.shields.io/badge/e-Colab 2-25D366?style=for-the-badge&logo=WhatsApp&logoColor=purpe" />
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
