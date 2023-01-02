@@ -80,14 +80,14 @@ let menuB = `╭┄〔 *${wm}* 〕┄⊱
 ╰┄┄┄┄〔 *𓃠 ${vs}* 〕┄┄┄┄⊱
 
 ⠇ ${lenguajeGB['smsTex13']()} 💫
-∘ _${usedPrefix}cuentasgatabot | cuentasgb_
+∘ _${usedPrefix}cuentasgatobot | cuentasgb_
 ∘ _${usedPrefix}gruposgb | grupos | groupgb_
 ∘ _${usedPrefix}donar | donate_
 ∘ _${usedPrefix}listagrupos | grouplist_
-∘ _${usedPrefix}estado | heygata | status_
-∘ _${usedPrefix}infogata | infobot_
+∘ _${usedPrefix}estado | heygato | status_
+∘ _${usedPrefix}infogato | infobot_
 ∘ _${usedPrefix}instalarbot | installbot_
-∘ _${usedPrefix}creadora | owner_
+∘ _${usedPrefix}creador | owner_
 ∘ _${usedPrefix}velocidad | ping_
 ∘ _${usedPrefix}serbot | jadibot_
 ∘ _${usedPrefix}bots | listjadibots_
