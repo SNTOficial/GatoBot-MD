@@ -67,8 +67,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `𖨆 𝙋𝙧𝙤𝙥𝙞𝙚𝙩𝙖𝙧𝙞𝙤 𝘿𝙚𝙡 𝘽𝙤𝙩 𖨆` 
-<a href="https://github.com/"><img src="https://github.com/.png" width="250" height="250" alt=""/></a>
- 
+
+<a href="https://github.com/SNTOficial"><img src="https://github.com/SNTOficial.png" width="300" height="300" alt="SNTOficial"/></a>
 
 
 `GatoBot _____ By SNT` 
