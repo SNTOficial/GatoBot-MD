@@ -8,8 +8,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [ ['wa.me/595983186566'], //owner
 global.owner1 =  ['wa.me/593968585383', ' 💖🐈'],
-global.owner1 =  ['wa.me/5492266466080 '], // colaborador ¹ 💖🐈
-global.owner2 =  ['wa.me/420702012758'],  // colaborado ² 
+global.owner1 =  ['wa.me/5492266466080'], // colaborado ¹ 💖🐈
+global.owner2 =  ['wa.me/524531106422'],  // colaborado ² 
 global.owner3 =  ['wa.me/15632203562'], //𝙂𝙖𝙩𝐎𝘽𝙤𝙩-𝙈𝘿 1 💖🐈
 //global.owner4 = ['wa.me/447451229913'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 2 💖🐈
 //global.owner5 = ['wa.me/573208089136'], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 3 💖🐈
