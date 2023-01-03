@@ -2,9 +2,9 @@
 # 𑁍 𝑮𝒂𝒕𝒐𝑩𝒐𝒕-𝑴𝑫 𑁍
 
 ### `—◉ 👑 𝚃𝚒𝚎𝚗𝚎𝚜 𝚍𝚞𝚍𝚊𝚜 𝚜𝚘𝚋𝚛𝚎 𝙶𝚊𝚝𝚘 𝙱𝚘𝚝?, 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚊𝚗𝚘𝚜 👑`
-<a href="http://595983186566" target="blank"><img src="https://img.shields.io/badge/❥︎𝑆𝑁𝑇-𝐶𝑟𝑒𝑎𝑑𝑜𝑟 -25D366?style=for-the-badge&logo=WhatsApp&logoColor=green" />
+<a href="http://595983186566" target="blank"><img src="https://img.shields.io/badge/❥︎𝑆𝑁𝑇-𝐶𝑟𝑒𝑎𝑑𝑜𝑟 -25D366?style=for-the-badge&logo=WhatsApp&logoColor=green"/>
 <a href="https://instagram.com/gata_dios?igshid=YmMyMTA2M2Y=" target="green"><img src="https://img.shields.io/badge/❥︎𝐺𝑎𝑡𝑎𝐷𝑖𝑜𝑠-𝐶𝑜𝑙𝑎𝑏 1 ♡︎-25D366?style=for-the-badge&logo=instagram&logoColor=pink" />
- <a href="http://5492266466080" target="blank"><img src="https://img.shields.io/badge/❥︎𝐸𝑙-𝐶𝑜𝑙𝑎𝑏 2-25D366?style=for-the-badge&logo=WhatsApp&logoColor=purpe" />
+ <a href="http://5492266466080" target="blank"><img src="https://img.shields.io/badge/❥︎𝐸𝑙-𝐶𝑜𝑙𝑎𝑏 2-25D366?style=for-the-badge&logo=WhatsApp&logoColor=purpe"/>
 
 ### `—◉ 👻 𝑩𝒐𝒕𝒔 𝑶𝒇𝒊𝒄𝒊𝒂𝒍𝒆𝒔 👻`
 
