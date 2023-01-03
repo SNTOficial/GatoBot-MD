@@ -17,7 +17,12 @@
 <a href="https://www.youtube.com/@Gato-Bot"><img height="30" src="https://img.shields.io/badge/ఌ︎GatoBot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@Gato-Bot"><a href="https://youtube.com/@gatadios"><img height="30" src="https://img.shields.io/badge/ఌ︎GataBot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@TheLoliBot-MD"><img height="30" src="https://img.shields.io/badge/ఌ︎The Loli Bot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
 
 
-
+### `—◉ ♔︎ 𝙂𝙧𝙪𝙥𝙤𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 ♔︎`
+<a href="https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk" target="blank"><img src="https://img.shields.io/badge/1- 𝙶𝚛𝚞𝚙𝚘 𝙾𝚏𝚒𝚌𝚒𝚊𝚕 -25D366?style=for-the-badge&logo=WhatsApp&logoColor=green" />
+ <a href="https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC" target="blank"><img src="https://img.shields.io/badge/2- 𝙶𝚛𝚞𝚙𝚘 𝙾𝚏𝚒𝚌𝚒𝚊𝚕 -25D366?style=for-the-badge&logo=WhatsApp&logoColor=green" />
+    <a href="https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432" target="blank"><img src="https://img.shields.io/badge/3- 𝙶𝚛𝚞𝚙𝚘 𝙾𝚏𝚒𝚌𝚒𝚊𝚕 -25D366?style=for-the-badge&logo=WhatsApp&logoColor=green" />
+        <a href="https://chat.whatsapp.com/Ko4zt9jzAmr23QVKZypvA5" target="blank"><img src="https://img.shields.io/badge/4- 𝙶𝚛𝚞𝚙𝚘 𝙾𝚏𝚒𝚌𝚒𝚊𝚕 -25D366?style=for-the-badge&logo=WhatsApp&logoColor=green" />
+            <a href="https://chat.whatsapp.com/Ecqsehly8Ox2wElR2ccNh2" target="blank"><img src="https://img.shields.io/badge/5- 𝙶𝚛𝚞𝚙𝚘 𝙾𝚏𝚒𝚌𝚒𝚊𝚕 -25D366?style=for-the-badge&logo=WhatsApp&logoColor=green" />
  
 ### `—◉ 🛠️ 𝘼𝘫𝙪𝙨𝙩𝙚𝙨 🛠️`
 - 𝙲𝚕𝚘𝚗𝚊𝚛 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘 [𝔸𝕢𝕦𝕚](https://github.com/SNTOficial/GatoBot-MD/fork)
