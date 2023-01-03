@@ -6,20 +6,20 @@
 <a href="https://instagram.com/gata_dios?igshid=YmMyMTA2M2Y=" target="green"><img src="https://img.shields.io/badge/❥︎𝐺𝑎𝑡𝑎𝐷𝑖𝑜𝑠-𝐶𝑜𝑙𝑎𝑏 1 ♡︎-25D366?style=for-the-badge&logo=instagram&logoColor=pink" />
  <a href="http://5492266466080" target="blank"><img src="https://img.shields.io/badge/❥︎𝐸𝑙-𝐶𝑜𝑙𝑎𝑏 2-25D366?style=for-the-badge&logo=WhatsApp&logoColor=purpe" />
 
-### `—◉ 𝑩𝒐𝒕𝒔 𝑶𝒇𝒊𝒄𝒊𝒂𝒍𝒆𝒔`
+### `—◉ 👻 𝑩𝒐𝒕𝒔 𝑶𝒇𝒊𝒄𝒊𝒂𝒍𝒆𝒔 👻`
 
 <a href="https://api.whatsapp.com/send/?phone=52199349&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/❥︎BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
  > ᑎO Տᑭᗩᗰᗴᗩᖇ ᑕOᗰᗩᑎᗪOՏ
 
-### `—◉ 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 `
+### `—◉ 💠 𝙔𝙤𝙪𝙩𝙪𝙗𝙚 💠 `
 
 <a href="https://www.youtube.com/@Gato-Bot"><img height="30" src="https://img.shields.io/badge/ఌ︎GatoBot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@Gato-Bot"><a href="https://youtube.com/@gatadios"><img height="30" src="https://img.shields.io/badge/ఌ︎GataBot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@TheLoliBot-MD"><img height="30" src="https://img.shields.io/badge/ఌ︎The Loli Bot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
 
 
 
  
-### `—◉ 𝘼𝘫𝙪𝙨𝙩𝙚𝙨`
+### `—◉ 🛠️ 𝘼𝘫𝙪𝙨𝙩𝙚𝙨 🛠️`
 - 𝙲𝚕𝚘𝚗𝚊𝚛 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚘 [𝔸𝕢𝕦𝕚](https://github.com/SNTOficial/GatoBot-MD/fork)
 - 𝙲𝚊𝚖𝚋𝚒𝚊𝚛 𝚗𝚞𝚖𝚎𝚛𝚘 𝚍𝚎𝚕 𝚘𝚠𝚗𝚎𝚛 [𝔸𝕢𝕦𝕚](https://github.com/SNTOficial/GatoBot-MD/blob/master/config.js)
 
@@ -53,7 +53,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 
-### `—◉ 𖠌 𝙉𝙤𝙩𝙖𝙨 𖠌`
+### `—◉ 📝 𝙉𝙤𝙩𝙖𝙨 📝`
 - ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
 - SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
 - EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
