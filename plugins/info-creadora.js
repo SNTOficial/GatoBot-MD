@@ -14,8 +14,8 @@ let text = `
 
 *---------------------*
 
-*CENTER GATABOT*
-*agromosb@gmail.com*
+*CENTER GATOBOT*
+*centergatobot@gmail.com*
 
 *Asistencia Gato Bot*
 +595 983 186566
@@ -35,7 +35,7 @@ let buttonMessage= {
 'mediaUrl': `${md}`,
 'mediaType': 2,
 'previewType': 'pdf',
-'title': 'Super Bot WhatsApp',
+'title': 'El mejor Bot de wasap',
 'body': wm,
 'thumbnail': fs.readFileSync('./media/menus/Menu3.jpg'),
 'sourceUrl': yt }},
