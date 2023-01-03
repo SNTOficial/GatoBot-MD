@@ -12,10 +12,9 @@
 
  > NO SPAMEAR COMANDOS
 
-### `—◉ 💰 DONAR 💰`
-- AGRADECE CON UNA DONACION VOLUNTARIA [Aqui](https://www.paypal.me/TheShadowBrokers133)
+### `—◉ Youtube `
 
-
+ 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/SNTOficial/GatoBot-MD/fork)
 - CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/SNTOficial/GatoBot-MD/blob/master/config.js)
