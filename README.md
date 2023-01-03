@@ -4,7 +4,7 @@
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://595983186566" target="blank"><img src="https://img.shields.io/badge/SNT-Creador-25D366?style=for-the-badge&logo=WhatsApp&logoColor=green" />
 <a href="https://instagram.com/gata_dios?igshid=YmMyMTA2M2Y=" target="green"><img src="https://img.shields.io/badge/GataDios-Colab 1-25D366?style=for-the-badge&logo=instagram&logoColor=pink" />
- <a href="http://5959831" target="blank"><img src="https://img.shields.io/badge/e-Colab 2-25D366?style=for-the-badge&logo=WhatsApp&logoColor=purpe" />
+ <a href="http://5492266466080" target="blank"><img src="https://img.shields.io/badge/el-Colab 2-25D366?style=for-the-badge&logo=WhatsApp&logoColor=purpe" />
 
 ### `—◉ 🤖 BOTS OFICIALES 🤖`
 
@@ -13,6 +13,11 @@
  > NO SPAMEAR COMANDOS
 
 ### `—◉ Youtube `
+
+<a href="https://www.youtube.com/@Gato-Bot"><img height="30" src="https://img.shields.io/badge/GatoBot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@Gato-Bot"><a href="https://youtube.com/@gatadios"><img height="30" src="https://img.shields.io/badge/GataBot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;<a href="https://www.youtube.com/@TheLoliBot-MD"><img height="30" src="https://img.shields.io/badge/The Loli Bot-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>&nbsp;&nbsp;
+
+
+
 
  
 ### `—◉ ⚙️ AJUSTES ⚙️`
