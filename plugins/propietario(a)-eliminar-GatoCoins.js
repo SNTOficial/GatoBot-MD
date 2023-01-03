@@ -12,7 +12,7 @@ let gatacoins = parseInt(txt)
 let money = gatacoins
 let pjk = Math.ceil(gatacoins * pajak)
 money -= pjk
-if (money < 1) throw `${mg}𝙀𝙇 𝙉𝙐𝙈𝙀𝙍𝙊 𝙈𝙄𝙉𝙄𝙈𝙊 𝘿𝙀 𝙂𝘼𝙏O𝘾𝙊𝙄𝙉𝙎 𝙀𝙎 *1*\n\n𝙏𝙃𝙀 𝙈𝙄𝙉𝙄𝙈𝙐𝙈 𝙉𝙐𝙈𝘽𝙀𝙍 𝙁𝙍𝙊𝙈 𝙂𝘼𝙏𝘼𝘾𝙊𝙄𝙉𝙎 𝙄𝙎 *1*`
+if (money < 1) throw `${mg}𝙀𝙇 𝙉𝙐𝙈𝙀𝙍𝙊 𝙈𝙄𝙉𝙄𝙈𝙊 𝘿𝙀 𝙂𝘼𝙏O𝘾𝙊𝙄𝙉𝙎 𝙀𝙎 *1*\n\n𝙏𝙃𝙀 𝙈𝙄𝙉𝙄𝙈𝙐𝙈 𝙉𝙐𝙈𝘽𝙀𝙍 𝙁𝙍𝙊𝙈 𝙂𝘼𝙏O𝘾𝙊𝙄𝙉𝙎 𝙄𝙎 *1*`
 let users = global.db.data.users
 users[who].money -= gatacoins
 
@@ -22,7 +22,7 @@ conn.sendHydrated(m.chat, `╭━━━[ 𝙂𝘼𝙏O𝘾𝙊𝙄𝙉𝙎 🐈 
 }
 handler.help = ['addgb <@user>']
 handler.tags = ['gatacoins']
-handler.command = ['eliminargatacoins', 'eliminargata', 'eliminarcoins', 'quitargatacoins', 'quitargata', 'quitarcoins', 'delgatacoins', 'delgata', 'delcoins'] 
+handler.command = ['eliminargatocoins', 'eliminargato', 'eliminarcoins', 'quitargatocoins', 'quitargato', 'quitarcoins', 'delgatocoins', 'delgato', 'delcoins'] 
 handler.group = true
 handler.rowner = true
 export default handler 
