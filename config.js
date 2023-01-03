@@ -123,7 +123,7 @@ global.version = vs
 global.gt = '𝙶𝙰𝚃𝙾 𝙱𝙾𝚃'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/channel/UCpNU4eY7eiI0ve05CssjdbA'
+global.yt = 'https://youtube.com/@Gato-Bot'
 global.youtube = yt
 
 global.ig = 'https://www.instagram.com/gata_dios'
@@ -132,20 +132,20 @@ global.gatadiosig = ig
 global.md = 'https://github.com/SNTOficial/GatoBot-MD'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/J7sTURm8BuNFxjOtjoC6m6'
+global.nna = 'https://chat.whatsapp.com/Ecqsehly8Ox2wElR2ccNh2'
 global.nnagrupo = nna //UPDATE GATOBOT
 global.nna2 = 'J7sTURm8BuNFxjOtjoC6m6'
 
-global.nn = 'https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC'
+global.nn = 'https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432'
+global.nnn = 'https://chat.whatsapp.com/CntRn9MHu6oI29HWU6tVrC'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/I1vjFTvfZQbJI4aw0Vj5dk'
+global.nnnt = 'https://chat.whatsapp.com/GxxpMawzPaW6MR0p2vH432'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/GnMFD6c5Ifv69SWY4e5KXY'
+global.nnntt = 'https://chat.whatsapp.com/Ko4zt9jzAmr23QVKZypvA5'
 global.nnnttgrupo = nnntt //Grupo 4
 
 global.nnnttt = 'https://chat.whatsapp.com/GSUnx4mUAuh0VQIem9aQDc'
@@ -193,10 +193,10 @@ global.exito = eg
 
 global.wm = '𝙶𝚊𝚝𝚘-𝙱𝚘𝚝-𝙼𝙳 : 𝚂𝙽𝚃'
 global.igfg = '𝙶𝚊𝚝𝚘-𝙱𝚘𝚝'
-global.wait = '*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*'
-global.waitt = '*⌛ _Cargando | Charging..._ ▬▬▭▭▭*'
-global.waittt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*'
-global.waitttt = '*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*'
+global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
+global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
+global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
+global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
 global.nomorown = '593993684821'
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
