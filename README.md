@@ -3,7 +3,7 @@
 <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> Ⓓ︎Ⓐ︎Ⓜ︎Ⓔ︎ Ⓤ︎Ⓝ︎Ⓐ︎ Ⓔ︎Ⓢ︎Ⓣ︎Ⓡ︎Ⓔ︎Ⓛ︎Ⓛ︎Ⓘ︎Ⓣ︎Ⓐ︎ Ⓟ︎Ⓞ︎Ⓡ︎Ⓕ︎Ⓐ︎ <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px">
 
 ### `—◉ 👑 𝚃𝚒𝚎𝚗𝚎𝚜 𝚍𝚞𝚍𝚊𝚜 𝚜𝚘𝚋𝚛𝚎 𝙶𝚊𝚝𝚘 𝙱𝚘𝚝?, 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚊𝚗𝚘𝚜 👑`
-<a href="https://api.whatsapp.com/send/?phone=5959831865669&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/❥︎𝑆𝑁𝑇-𝐶𝑟𝑒𝑎𝑑𝑜𝑟-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=595983186566&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/❥︎𝑆𝑁𝑇-𝐶𝑟𝑒𝑎𝑑𝑜𝑟-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  <a href="https://instagram.com/gata_dios?igshid=YmMyMTA2M2Y=" target="green"><img src="https://img.shields.io/badge/❥︎𝐺𝑎𝑡𝑎𝐷𝑖𝑜𝑠-𝐶𝑜𝑙𝑎𝑏1 -25D366?style=for-the-badge&logo=instagram&logoColor=pink" />
   <a href="https://api.whatsapp.com/send/?phone=5492266466080&text&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/❥︎𝐸𝑙𝑅𝑒𝑏𝑒𝑙𝑑𝑒-𝐶𝑜𝑙𝑎𝑏2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
