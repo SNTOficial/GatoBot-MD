@@ -1,5 +1,6 @@
 
 # 𑁍 𝑮𝒂𝒕𝒐𝑩𝒐𝒕-𝑴𝑫 𑁍
+<img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> DAME UNA ESTRELLITA PORFA <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px">
 
 ### `—◉ 👑 𝚃𝚒𝚎𝚗𝚎𝚜 𝚍𝚞𝚍𝚊𝚜 𝚜𝚘𝚋𝚛𝚎 𝙶𝚊𝚝𝚘 𝙱𝚘𝚝?, 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚊𝚗𝚘𝚜 👑`
 <a href="http://595983186566" target="blank"><img src="https://img.shields.io/badge/❥︎𝑆𝑁𝑇-𝐶𝑟𝑒𝑎𝑑𝑜𝑟 -25D366?style=for-the-badge&logo=WhatsApp&logoColor=green"/>
