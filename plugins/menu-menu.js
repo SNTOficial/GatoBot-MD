@@ -89,11 +89,11 @@ let menuB = `
 *╭━〔* ${username} *〕━⬣*
 *┆⚡ EXPERIENCIA ➟ ${exp}*
 *┆💎 DIAMANTES ➟ ${limit}*
-*┆🐈 GATACOINS ➟ ${money}*
+*┆🐈 GATOCOINS ➟ ${money}*
 *┆🪙 TOKENS ➟ ${joincount}*
 *╰*┅┅┅┅┅┅┅┅┅┅┅┅┅ *✧*
 ${readMore}
-*╭━〔 INFORMACIÓN DE GATABOT 〕⬣*
+*╭━〔 INFORMACIÓN DE GATŎ̈BOT 〕⬣*
 ┃💫➺ _${usedPrefix}cuentasgatabot | cuentasgb_
 ┃💫➺ _${usedPrefix}gruposgb | grupos | groupgb_
 ┃💫➺ _${usedPrefix}donar | donate_
@@ -106,17 +106,17 @@ ${readMore}
 ┃💫➺ _Bot_ 
 ┃💫➺ _términos y condiciones_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━〔 FUNCIÓN SUB BOT 〕━⬣*
 ┃ *Ya puedes convertir tú*
-┃ *Número en GataBot!!*
+┃ *Número en Gatŏ̈Bot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}serbot | jadibot_
 ┃💻 _${usedPrefix}bots | listjadibots_
 ┃💻 _${usedPrefix}detener | stop_
 ┃💻 _${usedPrefix}bcbot_
 *╰━━━━━━━━━━━━⬣*
-
+      🇬 🇦 🇹 🇴 
 *╭━〔 REPORTAR COMANDO 〕━⬣*
 ┃ *Reporta con este comando de haber*
 ┃ *Fallas para poder Solucionar!!*
@@ -124,14 +124,14 @@ ${readMore}
 ┃ 💌 _${usedPrefix}reporte *texto*_
 ┃ 💌 _${usedPrefix}report *texto*_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a GataBot en Grupos!!*
+┃ *Une a GatoBot en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}botemporal *enlace* *cantidad*_
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
 *╰━━━━━━━━━━━━⬣*
-
+      🇬 🇦 🇹 🇴 
 *╭━〔 SER PREMIUM 〕━⬣*
 ┃ *Convierte en un(a)*
 ┃ *Usuario(a) Premium!!*
@@ -140,7 +140,7 @@ ${readMore}
 ┃🎟️ _${usedPrefix}pase premium_
 ┃🎟️ _${usedPrefix}pass premium_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━〔 JUEGOS - MULTI JUEGOS 〕━⬣*
 ┃🎡➺ _${usedPrefix}mates | matemáticas | math_
 ┃🎡➺ _${usedPrefix}ppt *piedra : papel : tijera*_
@@ -179,16 +179,16 @@ ${readMore}
 ┃🎡➺ _${usedPrefix}multijuegos_
 ┃🎡➺ _${usedPrefix}juegos_
 *╰━━━━━━━━━━━━⬣*
-
+      🇬 🇦 🇹 🇴 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con GataBot!!*
+┃ *Conversar con GatoBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
 ┃🪄➺ _${usedPrefix}simsimi | bixby *texto*_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━━━[ AJUSTES - CHATS ]━━━⬣*
 ┃ *Configura si eres Propietario(a) y/o*
 ┃ *Admin!!*
@@ -221,7 +221,7 @@ ${readMore}
 ┃⚙️ _${usedPrefix}on *:* off *soloprivados | pconly*_
 ┃⚙️ _${usedPrefix}on *:* off *sologrupos | gconly*_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━〔 GRUPO - RESUMEN 〕━⬣*
 ┃ *Ahora puedes ver el resumen*
 ┃ *de configuracion de Grupos!!*
@@ -230,7 +230,7 @@ ${readMore}
 ┃🧾➺ _${usedPrefix}settings_
 ┃🧾➺ _${usedPrefix}vergrupo_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━[ DESCARGAS | DOWNLOADS ]━⬣*
 ┃🚀➺ _${usedPrefix}imagen | image *texto*_
 ┃🚀➺ _${usedPrefix}pinterest | dlpinterest *texto*_
@@ -259,7 +259,7 @@ ${readMore}
 ┃🚀➺ _${usedPrefix}fraseromantica_
 ┃🚀➺ _${usedPrefix}historia_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━[ CHAT ANONIMO ]━⬣*
 ┃ *¡Escribe con Alguien* 
 ┃ *de forma Anónima!* 
@@ -270,9 +270,9 @@ ${readMore}
 ┃👤➺ _${usedPrefix}next_
 ┃👤➺ _${usedPrefix}leave_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con GataBot!!*
+┃ *Mejora tú Grupo con GatoBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
@@ -307,7 +307,7 @@ ${readMore}
 ┃🌐➺ _${usedPrefix}on_
 ┃🌐➺ _${usedPrefix}off_
 *╰━━━━━━━━━━━━⬣*
-
+      🇬 🇦 🇹 🇴 
 *╭━━━[ PAREJAS 💞 ]━━⬣*
 ┃ *Declarate con alguien*
 ┃ *para que sean Parejas!!*
@@ -319,7 +319,7 @@ ${readMore}
 ┃❤️➺ _${usedPrefix}rechazar | decline *@tag*_
 ┃❤️➺ _${usedPrefix}terminar | finish *@tag*_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━[ VOTACIONES EN GRUPOS 📧 ]━⬣*
 ┃ *Ahora puedes hacer*
 ┃ *Votaciones en Grupos!!*
@@ -330,14 +330,14 @@ ${readMore}
 ┃📧➺ _${usedPrefix}vervotos | cekvoto_
 ┃📧➺ _${usedPrefix}delvoto | deletevoto_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━━━[ CONTENIDO 🔞 ]━━⬣*
 ┃ *Visita el Menú de Comandos*
 ┃ *Para Adultos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🔞➺ _${usedPrefix}hornymenu_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━[ CONVERTIDORES 🛰️ ]━⬣*
 ┃ *Convierte sticker en imagen!!*
 ┃ *Crea enlace de archivos!!*
@@ -350,7 +350,7 @@ ${readMore}
 ┃🛰️➺ _${usedPrefix}toenlace  *video, imagen o audio*_
 ┃🛰️➺ _${usedPrefix}tts es *texto*_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━━━[ LOGOS 🔆 ]━━⬣*
 ┃ *Crea Logos o personaliza*
 ┃ *la información del Logo!!*
@@ -358,7 +358,7 @@ ${readMore}
 ┃🔆 _${usedPrefix}logos *efecto texto*_
 ┃🌅 _${usedPrefix}menulogos2_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━━━[ EFECTOS ⛺ ]━━⬣*
 ┃⛺ _${usedPrefix}simpcard *@tag*_
 ┃⛺ _${usedPrefix}hornycard *@tag*_
@@ -368,7 +368,7 @@ ${readMore}
 ┃⛺ _${usedPrefix}pixelar_
 ┃⛺ _${usedPrefix}blur_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━[ RANDOM | ANIME 🧩 ]━⬣*
 ┃🧩 _${usedPrefix}chica_
 ┃🧩 _${usedPrefix}chico_
@@ -421,7 +421,7 @@ ${readMore}
 ┃🧩 _${usedPrefix}sakura_
 ┃🧩 _${usedPrefix}cosplay_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━[ MODIFICAR AUDIO 🧰 ]━⬣*
 ┃ *Realiza Modificaciones*
 ┃ *al Audio o Nota de Voz!!*
@@ -439,9 +439,9 @@ ${readMore}
 ┃🧰 _${usedPrefix}smooth_
 ┃🧰 _${usedPrefix}tupai_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━━[ BÚSQUEDAS 🔍 ]━━⬣*
-┃ *Busca lo que quieres con GataBot!!*
+┃ *Busca lo que quieres con GatoBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🔍➺ _${usedPrefix}animeinfo *texto*_
 ┃🔍➺ _${usedPrefix}mangainfo *texto*_
@@ -450,14 +450,14 @@ ${readMore}
 ┃🔍➺ _${usedPrefix}ytsearch | yts *texto*_
 ┃🔍➺ _${usedPrefix}wiki | wikipedia *texto*_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━━━[ AUDIOS 🔊 ]━━⬣*
 ┃ *Visita el Menú de Audios!!*
 ┃ *Disfruta de una Gran Variedad*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃➫🔊 _${usedPrefix}audios_
 *╰━━━━━━━━━━━━⬣*
-
+      🇬 🇦 🇹 🇴 
 *╭━━[ HERRAMIENTAS 🛠️ ]━━⬣*
 ┃🛠️ _${usedPrefix}afk *motivo*_
 ┃🛠️ _${usedPrefix}acortar *url*_
@@ -473,7 +473,7 @@ ${readMore}
 ┃🛠️➺ _${usedPrefix}encuesta | poll *Motivo*_
 ┃🛠️➺ _${usedPrefix}horario_
 *╰━━━━━━━━━━━━⬣*
-
+      🇬 🇦 🇹 🇴 
 *╭━━━[ FUNCIÓN RPG ]━━⬣*
 ┃ *Compra, Adquiere Recuersos*
 ┃ *Mejora Tú Nivel y Rango!!*
@@ -516,13 +516,13 @@ ${readMore}
 ┃⚗️➺ _${usedPrefix}cofre | abrircofre | coffer_
 ┃⚗️➺ _${usedPrefix}trabajar | work_
 *╰━━━━━━━━━━━━⬣*
-
-*╭━━━[ TOP EN GATABOT ]━━⬣*
+      🇬 🇦 🇹 🇴 
+*╭━━━[ TOP EN GATABŎ̈T ]━━⬣*
 ┃ *Averigua en que Top te encuentras!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🏆➺ _${usedPrefix}top | lb | leaderboard_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━[ STICKERS Y FILTROS ]━⬣*
 ┃ *Realiza stickers o crea*
 ┃ *stickers con filtros!!*
@@ -545,14 +545,14 @@ ${readMore}
 ┃🎐 _${usedPrefix}stickerfilter *efecto : responder a imagen*_
 ┃🎐 _${usedPrefix}cs *:* cs2_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━[ MODIFICAR STICKERS ]━⬣*
 ┃ *Personaliza la información del Sticker!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💡 _${usedPrefix}wm *packname|author*_
 ┃💡 _${usedPrefix}wm *texto1|texto2*_
 *╰━━━━━━━━━━━━⬣*
-
+     🇬 🇦 🇹 🇴 
 *╭━[ STICKERS DINÁMICOS ]━⬣*
 ┃ *Realiza acciones con Stickers*
 ┃ *Etiquetando a alguien!!*
@@ -563,7 +563,7 @@ ${readMore}
 ┃⛱️ _${usedPrefix}besar | kiss *@tag*_
 ┃⛱️ _${usedPrefix}alimentar | food *@tag*_
 *╰━━━━━━━━━━━━⬣*
-
+       🇬 🇦 🇹 🇴 
 *╭━[ MENU PARA PROPIETARIO/A ]━⬣*
 ┃ *Comandos solo para Propietario/a!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
