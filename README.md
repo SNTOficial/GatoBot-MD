@@ -59,13 +59,25 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 
-### `—◉ 📝 𝙉𝙤𝙩𝙖𝙨 📝`
-- ES POSIBLE QUE EL BOT TENGA ALGUNAS FALLAS, SE IRAN SOLUCIONANDO CONFORME SE VAYAN DETECTANDO
-- SI VAS A EDITAR POR COMPLETO DEJA LOS CREDITOS DEL BOT 
-- EL BOT ES COMPARTIBLE CON WHATSAPP NORMAL O BUSINESS
-- ATENTO A LAS ACTUALIZACIONES QUE SE HAGAN EN ESTE REPOSITORIO
-- EL ADD Y EL KICK PUEDEN OCASIONAR QUE EL NUMERO SE VAYA A SOPORTE POR ELLO SE ACTIVA CON #enable restrict 
-- GATOBOT - TEAM NO SE HACE RESPONSABLE DEL USO, NUMEROS, PRIVACIDAD Y CONTENIDO MANDADO, USADO O GESTIONADO POR USTEDES O EL BOT
+### `᯾ NOTAS ᯾`
+> ➪ 𝐸𝑆 𝑃𝑂𝑆𝐼𝐵𝐿𝐸 𝑄𝑈𝐸 𝐸𝐿 𝐵𝑂𝑇 𝑇𝐸𝑁𝐺𝐴 𝐴𝐿𝐺𝑈𝑁𝐴𝑆 𝐹𝐴𝐿𝐿𝐴𝑆, 𝑆𝐸 𝐼𝑅𝐴𝑁 𝑆𝑂𝐿𝑈𝐶𝐼𝑂𝑁𝐴𝑁𝐷𝑂 𝐶𝑂𝑁𝐹𝑂𝑅𝑀𝐸 𝑆𝐸 𝑉𝐴𝐿𝐿𝐴 𝐷𝐸𝑇𝐸𝐶𝑇𝐴𝑁𝐷𝑂.
+
+
+> ➪ 𝑆𝐼 𝑉𝐴𝑆 𝐴 𝐸𝐷𝐼𝑇𝐴𝑅 𝑃𝑂𝑅 𝐶𝑂𝑀𝑃𝑀𝐸𝑇𝑂 𝐷𝐸𝐽𝐴 𝐿𝑂𝑆 𝐶𝑅𝐸𝐷𝐼𝑇𝑂𝑆 𝐷𝐸𝐿 𝐵𝑂𝑇.
+
+
+> ➪ 𝐸𝐿 𝐵𝑜𝑇 𝐸𝑆 𝐶𝑂𝑀𝑃𝐴𝑅𝑇𝐼𝐵𝐿𝐸 𝐶𝑂𝑁 𝑊𝐻𝐴𝑇𝑆𝐴𝑃𝑃 𝑁𝑂𝑅𝑀𝐴𝐿 𝑂 𝐵𝑈𝑆𝐼𝑁𝑁𝐸𝑆.
+
+
+> ➪ A𝑇𝐸NTO 𝐴 𝐿𝐴𝑆 𝐴𝐶𝑇𝑈𝐴𝐿𝐼𝑍𝐴𝐶𝐼𝑂𝑁𝐸𝑆 𝑄𝑈𝐸 𝑆𝐸 𝐻𝐴𝐺𝐴𝑁 𝐸𝑁 𝐸𝑆𝑇𝐸 𝑅𝐸𝑃𝑂𝑆𝐼𝑇𝑂𝑅𝐼𝑂.
+
+
+> ➪ 𝐸𝐿 𝐴𝐷𝐷 𝑌 𝐸𝐿 𝐾𝐼𝐶𝐾 𝑃𝑈𝐸𝐷𝐸 𝑂𝐶𝐴𝐶𝐼𝑂𝑁𝐴𝑅 𝑄𝑈𝐸 𝐸𝐿 𝑁𝑈𝑀𝐸𝑅𝑂 𝑆𝐸 𝑉𝐴𝑌𝐴  𝑆𝑂𝑃𝑂𝑅𝑇𝐸 𝑃𝑂𝑅 𝐸𝐿𝐿𝑂 𝑆𝐸 𝐴𝐶𝑇𝐼𝑉𝐴 𝐶𝑂𝑁  #enable restrict. 
+
+
+> ➪ 𝐺𝐴𝑇𝑂𝐵𝑂𝑇 - 𝑇𝐸𝐴𝑀 𝑁𝑂 𝑆𝐸 𝐻𝐴𝐶𝐸 𝑅𝐸𝑆𝑃𝑂𝑁𝑆𝐴𝐵𝐿𝐸 𝐷𝐸𝐿 𝑈𝑆𝑂, 𝑁𝑈𝑀𝐸𝑅𝑂𝑆, 𝑃𝑅𝐼𝑉𝐴𝐶𝐼𝐷𝐴𝐷 𝑌 𝐶𝑂𝑁𝑇𝐸𝑁𝐼𝐷𝑂 𝑀𝐴𝑁𝐷𝐴𝐷𝑂, 𝑈𝑆𝐴𝐷𝑂 𝑂 𝐺𝐸𝑆𝑇𝐼𝑂𝑁𝐴𝐷𝑂 𝑃𝑂𝑅 𝑈𝑆𝑇𝐸𝐷 𝑂 𝐸𝐿 𝐵𝑂𝑇.
+
+
 
 ## ` ꨄ︎ 𝘾𝙤𝙡𝙖𝙗𝙤𝙧𝙖𝙙𝙤𝙧𝙚𝙨 𝘿𝙚𝙡 𝘽𝙤𝙩 ꨄ︎` 
 <a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
